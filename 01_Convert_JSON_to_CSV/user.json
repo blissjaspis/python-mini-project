@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "name": "Bliss Jaspis",
+        "email": "bliss@jaspis.me",
+        "activated": true
+    },
+    {
+        "id": 2,
+        "name": "Ulquiorra",
+        "email": "gue@jaspis.me",
+        "activated": false
+    },
+    {
+        "id": 3,
+        "name": "Lini",
+        "email": "lini@jaspis.me",
+        "activated": true
+    }
+]
